@@ -53,8 +53,9 @@ Todas as medições foram realizadas em hardware padronizado:
 - Sistema Operacional: Microsoft Windows 10 Pro (64 bits)
 - Ambientes de Compilação: Code::Blocks (GCC / MinGW)
 
+# Como Compilar e Executar
 
-## Como Compilar e Executar
-
-1. Clone o repositório:
-   git clone https://github.com/leticiavitoriapeoli/Projeto-Desempenho-de-Algoritmos.git
+1. Certifique-se de ter um compilador C instalado (como o GCC) ou abra o projeto diretamente na IDE Code::Blocks.
+2. Clone este repositório:
+   ```bash
+   git clone [https://github.com/leticiavitoriapeoli/Projeto-Desempenho-de-Algoritmos.git](https://github.com/leticiavitoriapeoli/Projeto-Desempenho-de-Algoritmos.git)
